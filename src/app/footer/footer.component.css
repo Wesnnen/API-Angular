@@ -1,0 +1,25 @@
+*{
+    color: aliceblue;
+}
+footer{
+    padding: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: justify;
+    
+}
+
+footer .tx{
+    padding: 1%;
+    font-size: large;
+    
+}
+
+footer .ic{
+    border-radius: 30%;
+    border: 1px groove white;
+    padding: 1%;
+    font-size: xx-large;
+
+}

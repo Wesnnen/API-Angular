@@ -1,0 +1,16 @@
+
+.texto h2 b{
+    text-align: end;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;  
+}
+
+.texto p{
+text-align: justify;
+}
+
+.texto{
+    padding: 10px;
+    color: aliceblue;
+}
