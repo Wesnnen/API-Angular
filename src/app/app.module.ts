@@ -13,6 +13,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { CarrosselComponent } from './carrossel/carrossel.component';
 import { TextoCarrosselComponent } from './texto-carrossel/texto-carrossel.component';
 import { ColunaComponent } from './coluna/coluna.component';
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,8 @@ import { ColunaComponent } from './coluna/coluna.component';
     CardComponent,
     CarrosselComponent,
     TextoCarrosselComponent,
-    ColunaComponent
+    ColunaComponent,
+    LoginComponent
 
   ],
   imports: [
